@@ -2,12 +2,12 @@
 
 *Note*: Official GUI releases use monero-wallet-gui from this process alongside the supporting binaries (monerod, etc) from the [CLI deterministic builds](https://github.com/monero-project/monero/blob/master/contrib/gitian/README.md).
 
-    + [Building Reproducible Windows static binaries with Docker (any OS)](#building-reproducible-windows-static-binaries-with-docker-any-os)
-    + [Building Reproducible Linux static binaries with Docker (any OS)](#building-reproducible-linux-static-binaries-with-docker-any-os)
-    + [Building Android APK with Docker (any OS) *Experimental*](#building-android-apk-with-docker-any-os-experimental)
-    + [Building on Linux](#building-on-linux)
-    + [Building on OS X](#building-on-os-x)
-    + [Building on Windows](#building-on-windows)
+  * [Building Reproducible Windows static binaries with Docker (any OS)](#building-reproducible-windows-static-binaries-with-docker-any-os)
+  * [Building Reproducible Linux static binaries with Docker (any OS)](#building-reproducible-linux-static-binaries-with-docker-any-os)
+  * [Building Android APK with Docker (any OS) *Experimental*](#building-android-apk-with-docker-any-os-experimental)
+  * [Building on Linux](#building-on-linux)
+  * [Building on OS X](#building-on-os-x)
+  * [Building on Windows](#building-on-windows)
 
 ### Building Reproducible Windows static binaries with Docker (any OS)
 
