@@ -90,4 +90,4 @@ Packaging for your favorite distribution would be a welcome contribution!
 
 ## Compiling the Monero GUI from source
 
-See [BUILDING](BUILDING.md).
+See [BUILDING.md](BUILDING.md).
